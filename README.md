@@ -7,14 +7,14 @@
 
 ## 開発環境
 
-- Godot( https://godotengine.org/ )で2dゲームとして作成してみる
+- [Godot](https://godotengine.org/)で2dゲームとして作成してみる
 - 基本的に上記のアプリをインストールすれば作れる
 
 ## 他文書のリンク
 
-- Rule.md
+- [Rule.md](https://github.com/jomjomni/uo_tyesuto/blob/master/Rule.md)
   - 公式のPDFの内容をざっくりと訳して開発に役立てる
-- BreakDown.md
+- [BreakDown.md](https://github.com/jomjomni/uo_tyesuto/blob/master/BreakDown.md)
   - ゲームの開発の覚書とか作成順番
 
 ## 備考
