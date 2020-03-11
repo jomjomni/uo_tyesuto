@@ -7,7 +7,7 @@
 
 ## 開発環境
 
-- Godot(https://godotengine.org/)で2dゲームとして作成してみる
+- Godot( https://godotengine.org/ )で2dゲームとして作成してみる
 - 基本的に上記のアプリをインストールすれば作れる
 
 ## 他文書のリンク
