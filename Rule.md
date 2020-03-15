@@ -77,7 +77,7 @@
   
 ## コインを裏にして捨てるアクション
 > - 裏にして捨てるアクションはゲームで重要な役割になります。
-> - Knowing when to recruit and when to maintain your bag at a level that keeps your maneuvering options consistent is a key decision point. 
+> - 戦略的展開を一貫性を保つためには補充する時と袋にコインを詰める時を決めるのが重要な決断ポイントとなります。 
 ### 先手を請求する
 - どれでもいいのでコインを裏にしてコイン捨場に捨ててあなたの対戦相手からイニシエイティブマーカーを取ることができます。
 - これは次のラウンドであなたが最初の手番になることを意味しています。
