@@ -13,7 +13,9 @@
 ## 他文書のリンク
 
 - [Rule.md](https://github.com/jomjomni/uo_tyesuto/blob/master/Rule.md)
-  - 公式のPDFの内容をざっくりと訳して開発に役立てる
+  - 公式の通常版のPDFの内容をざっくりと訳して開発に役立てる
+- [Rule(Nobility).md](https://github.com/jomjomni/uo_tyesuto/blob/master/Rule(Nobility).md)
+  - 公式の拡張版のPDFの内容をざっくりと訳して開発に役立てる
 - [BreakDown.md](https://github.com/jomjomni/uo_tyesuto/blob/master/BreakDown.md)
   - ゲームの開発の覚書とか作成順番
 
