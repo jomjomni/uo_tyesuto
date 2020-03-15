@@ -1,3 +1,10 @@
 # ルール(Nobilyty)
 - 公式ルールブック
   - https://www.alderac.com/wp-content/uploads/2019/08/WarChest_Nobility_Rules_Rulesheet_FINAL.pdf
+## コンポーネント
+- この拡張には次のものが含まれています。
+  - 7個のロイヤル政令カード
+  - 19枚のユニットコイン
+  - 6枚の宣言印
+  - 4枚のユニットカード
+  - 16枚の陣営支配マーカー
